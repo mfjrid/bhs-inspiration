@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "" -%F "" -%l "en, *" https://reactheme.com/products/html/most/ -O1 "C:\My Web Sites\bhs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://reactheme.com/products/html/most/*
+File generated automatically on Sat, 25 Feb 2023 14:23:45, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
